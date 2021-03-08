@@ -14,7 +14,7 @@
       "name": "Schrute Bucks",
       "symbol": "DWIGHT",
       "address": "0xebf96d0583de4bf3bbdacd22926d4ee2356fc4d6",
-      "chainId": 97,
+      "chainId": 56,
       "decimals": 4,
       "logoURI": "/images/coins/BUSD.png"
     },
